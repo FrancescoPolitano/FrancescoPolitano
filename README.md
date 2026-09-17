@@ -1,34 +1,23 @@
 # Francesco Politano
 
-Presales engineer at Corley Cloud, Turin. Former Head of Cloud of the same company.
+I build agentic AI systems and put them in front of the people who have to trust them.
 
-I spent five years building Corley's cloud engineering organization, first as team leader and then as Head of Cloud for a team of more than twenty engineers. In 2026 I moved to the revenue side of the business: today I own deals from first contact to signature, as a hybrid presales and technical sales figure. I sell the things I used to build, which is the only reason the conversation holds up.
+Most of my work happens where generative AI meets a budget owner: assessments that decide whether a company should adopt it at all, agentic architectures on Amazon Bedrock, retrieval over regulated document sets, and the cost model that decides whether any of it survives contact with production. Before this I spent five years building Corley's cloud engineering organization, first as team leader and then as Head of Cloud for a team of more than twenty engineers. The cloud years are the reason the AI work ships: someone still has to own the unglamorous half.
 
-## What I do now
+## What I work on
 
-- Own a sales pipeline end to end: outreach, discovery, qualification, technical and economic proposal, negotiation, closing.
-- Act as presales architect on my colleagues' deals: feasibility calls, high level designs, effort estimation, AWS cost modeling through the Price List API, RFP responses and technical annexes.
-- Design generative AI solutions on Amazon Bedrock: agentic architectures, knowledge bases, document intelligence, proofs of concept scoped around measurable success criteria.
-- Work with AWS on the commercial side: co-selling with the account teams, referral pipeline, funding programs attached to deals.
-- Build the tooling I use for all of the above, an AI assisted sales operating system that makes the presales workflow repeatable.
+- **AI assessments for enterprise customers.** I lead the delivery end to end: discovery of candidate use cases, scoring, ROI modeled on held out data where the data exists, and a recommendation that is allowed to say no. Two delivered so far, in manufacturing and in energy.
+- **Agentic architectures on Amazon Bedrock.** Knowledge bases, document intelligence, multi step agents scoped around success criteria you can measure. They are designed in presales, which means they have to convince a technical audience and a budget owner in the same room.
+- **Token economics.** Model selection, caching and context design treated as cost decisions, with the numbers worked out before the architecture is committed to.
+- **Systems I run on myself.** A multi agent operating system that drives my own working day: a CRM backed dashboard, an event log, adversarial persona panels that review a document before it reaches a customer, custom MCP servers and skills. It started as a personal tool and now runs for the wider team.
 
 ## Before that
 
-Head of Cloud and team leader at Corley Cloud, cloud engineer on the private cloud platform at Intesa Sanpaolo, full stack engineer at NTT DATA Italia, backend engineer at Retail Reply. MS in Computer Engineering, Politecnico di Torino.
+Head of Cloud and team leader at Corley Cloud, where I grew the cloud engineering function from a handful of people to the technical departments of the company. Earlier: cloud engineer on the private cloud platform at Intesa Sanpaolo, full stack engineer at NTT DATA Italia, backend engineer at Retail Reply. MS in Computer Engineering, Politecnico di Torino.
 
-## Toolbox
+## Credentials
 
-AWS as a first language, infrastructure as code with CloudFormation and Terraform, containers and Kubernetes, Python and Node.js, Amazon Bedrock for the generative AI work.
-
-## Certifications
-
-- AWS Certified DevOps Engineer, Professional
-- AWS Certified Solutions Architect, Professional
-- AWS Certified Developer, Associate
-- AWS Certified Solutions Architect, Associate
-- AWS Certified Cloud Practitioner
-
-Badges are verifiable on [Credly](https://www.credly.com/users/politano-francesco).
+Five active AWS certifications, including both Professional level ones, Solutions Architect and DevOps Engineer. Verifiable on [Credly](https://www.credly.com/users/politano-francesco).
 
 ## Elsewhere
 
