@@ -28,6 +28,8 @@ AWS as a first language, infrastructure as code with CloudFormation and Terrafor
 - AWS Certified Solutions Architect, Associate
 - AWS Certified Cloud Practitioner
 
+Badges are verifiable on [Credly](https://www.credly.com/users/politano-francesco).
+
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/francescopolitano/)
